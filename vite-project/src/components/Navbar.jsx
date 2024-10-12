@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="bg-gray-800 w-full p-4 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <Link
-          to="/" // Redirects to the home route
+          to="/"
           className="text-white text-xl font-semibold transition-transform transform hover:scale-105 hover:text-blue-400" // Add hover effect
         >
           News Website
